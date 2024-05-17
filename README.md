@@ -1,1 +1,2 @@
-# submissions
+> [!NOTE]
+> Works with GitHub Pages.
