@@ -4,7 +4,7 @@
 > [!CAUTION]
 > *To report abuse please email abuse@nucceteere.xyz*
 ### Initial registration
-1. So, firstly create an issue and fill the form accordingly.
+1. So, firstly create an issue and fill the form accordingly. [//]: <> (we can temporarily do this by using google forms or by a basic form sender and visualiser)
 2. Then tag your created issue with the "Register" tag.
 Now, just wait for approval,
 ### Modifying records
