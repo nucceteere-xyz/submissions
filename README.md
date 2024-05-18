@@ -2,7 +2,7 @@
 > Works with GitHub Pages.
 
 > [!CAUTION]
-> *To report abuse please email abuse@nucceteere.xyz
+> *To report abuse please email abuse@nucceteere.xyz*
 ### Initial registration
 1. So, firstly create an issue and fill the form accordingly.
 2. Then tag your created issue with the "Register" tag.
