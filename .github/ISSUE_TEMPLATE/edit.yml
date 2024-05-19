@@ -1,6 +1,6 @@
 name: Edit your subdomain
 description: Edit your subdomain that's registered with nucceteere.xyz
-title: "[NEW] mysubdomain"
+title: "[EDIT] mysubdomain"
 labels: "edit"
 assignees:
   - engurruzgar
