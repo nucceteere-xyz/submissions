@@ -19,11 +19,7 @@ body:
     attributes:
       label: Records
       description: What will be your subdomains records.
-      placeholder: 
-        - "ex. NS: sonny.ns.cloudflare.com"
-        - "ex. A: 1.1.1.1
-        - "ex. MX: mx1.privateemail.com
-      value: "A bug happened!"
+      placeholder: "ex. NS: sonny.ns.cloudflare.com"
     validations:
       required: true
   - type: input
