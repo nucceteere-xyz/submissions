@@ -1,7 +1,7 @@
 name: Edit your subdomain
-description: Register a subdomain with nucceteere.xyz
+description: Edit your subdomain that's registered with nucceteere.xyz
 title: "[NEW] mysubdomain"
-labels: "submission"
+labels: "edit"
 assignees:
   - engurruzgar
   - cinarbayramic
