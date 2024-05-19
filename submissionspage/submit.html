@@ -1,1 +1,35 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+.centerform {
+    border: 5px solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;    
+}
+</style>
+    <script src="processsubmit.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submission Form</title>
+</head>
+<body>
+    <div class="centerform">
+    <form name = "nuccform"onsubmit="return validateForm()">
+        <label for="domain">domain</label><br>
+        <input type="text" placeholder="nuccsite" id="domain" name="domain"><br>
+        <label for="DNS">DNS</label><br>
+        <input type="text" placeholder="xxx.xxx.xxx.xx" id="DNS" name="DNS"><br>
+        <label for="contact">Please Enter your contact (email or phone number)</label><br>
+        <input type="text" placeholder="info@nucceteere.xyz" id="contact" name="contact"><br>
+        <label>Do you want ads? (read the submission markdown file in github
+             because<br> we currently dont have monetization.)</label>
+        <input type="checkbox"></input><br>
+        <input type="submit" value="Submit">
+    </form>
+</div>
+</body>
+</html>
