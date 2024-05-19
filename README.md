@@ -12,9 +12,9 @@ Now, just wait for approval,
 2. Tag your created issue with the "Modify" tag.
 Now, just wait for a domain manager to approve your changes.
 ### Advertisements
-* advertisements are **optional**
-* we currently dont have advertisements nor monetization but
-  we can make a system where every advertisement view on your
-  website moves you upwards on your website's genre's list.
+> [!NOTE]
+> This is completely optional, it supports us and helps you.
 
+* If asked, we can enable advertisements which lets us to continue this project and moves your webpage up on our lists.
+* To enable it, email info@nucceteere.xyz.
 
