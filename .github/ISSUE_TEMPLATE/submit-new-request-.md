@@ -1,5 +1,5 @@
 ---
-name: Submit new request.
+name: Subdomain form
 about: Submit your request with this template.
 title: "[NEW] "
 labels: submission
