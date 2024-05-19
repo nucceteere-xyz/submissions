@@ -1,0 +1,40 @@
+name: Subdomain registry
+description: Register a subdomain with nucceteere.xyz
+title: "[NEW] mysubdomain"
+labels: "submission"
+assignees:
+  - engurruzgar
+  - cinarbayramic
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: What will be your new contact info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: textarea
+    id: dns
+    attributes:
+      label: Records
+      description: What will be your new subdomain records?
+      placeholder: "ex. NS: sonny.ns.cloudflare.com (If the records will be same, leave this empty)"
+    validations:
+      required: false
+  - type: input
+    id: purpose
+    attributes:
+      label: Purpose
+      description: If you enter a new purpose, the old one will be removed.
+      placeholder: ex. Personal site
+    validations:
+      required: false
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms of Service
+      description: By submitting this issue, you agree to follow our Terms of Service. 
+      options:
+        - label: I agree to follow this project's Terms of Service
+          required: true
