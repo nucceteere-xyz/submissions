@@ -1,5 +1,5 @@
 > [!NOTE]
-> Works with GitHub Pages.
+> Works with GitHub Pages, Vercel, Netlify and Clouflare Pages
 
 > [!CAUTION]
 > *To report abuse, please email abuse@nucceteere.xyz*\
