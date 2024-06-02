@@ -1,0 +1,43 @@
+name: Register a domain with Vercel
+description: Register a subdomain for Vercel with nucceteere.xyz
+title: "[NEW] mysubdomain (Vercel)"
+labels: "submission"
+assignees:
+  - engurruzgar
+  - cinarbayramic
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: textarea
+    id: dns
+    attributes:
+      label: Records
+      description: What will be your subdomains records.
+      placeholder: "DO NOT DELETE THIS"
+      value: "CNAME: cname.vercel-dns.com"
+    validations:
+      required: true
+  - type: input
+    id: purpose
+    attributes:
+      label: Purpose
+      description: What will be the use case for this subdomain.
+      placeholder: ex. Personal site
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms of Service
+      description: By submitting this issue, you agree to follow our Terms of Service. 
+      options:
+        - label: I agree to follow this project's Terms of Service
+          required: true
+
+      
