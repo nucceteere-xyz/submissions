@@ -6,9 +6,11 @@ this.owner = owner;
 this.dns = dns;
 this.target = target;
 }
+export function checkowners() {// i somehow need to figure out how to use classes in functions 
+//buna sonra bakacağım
+for (let i = 0; i < domainstoprocess.length;i++) {
+if(domainstopprocess[i]==this.owner)
 
+ }
 }
-
-export function ownercheck() {// i somehow need to figure out how to use classes in functions 
-
 }
