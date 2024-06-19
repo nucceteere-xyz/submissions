@@ -6,8 +6,9 @@ this.owner = owner;
 this.dns = dns;
 this.target = target;
 }
+
 }
 
-export function ownercheck() {
+export function ownercheck() {// i somehow need to figure out how to use classes in functions 
 
 }
