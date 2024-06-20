@@ -1,3 +1,4 @@
+import { subdomaintype } from "./dnstype";
 function validateForm() {
     let x = document.forms["nuccform"]["domain"].value;
     let y = document.forms["nuccform"]["DNS"].value;
