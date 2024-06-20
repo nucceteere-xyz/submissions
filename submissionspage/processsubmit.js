@@ -6,5 +6,7 @@ function validateForm() {
     if (x == "" || y == "" || z =="") {
       alert("We need you to enter your domain, dns adress and your contact before submitting");
       return false;
+    } else {
+      return new subdomaintype(z,y,x);
     }
   }
